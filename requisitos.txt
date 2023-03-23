@@ -1,0 +1,7 @@
+LISTA DE REQUERIMIENTOS
+
+    Llamada al cliente 23 de marzo del 2023
+    - Correguir la posición de las mesas en el salón.
+    - Acomodar las mesas con el diseño de Alejandro Maqueda.
+    - Pagar $500 por cada grosería y así pagar para el ventilador.
+    - Llamarle la atención a las chicas de producción de multimedia por cada novela que vean.
